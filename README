@@ -1,0 +1,8 @@
+Update the Zigbee firmware to the latest version for products:
+- Nortek HUSBZB-1 Zigbee & Z-Wave Plus USB Interface
+- CECOMINOD016164 HUSBZB-1 USB Hub
+- GoControl Z-Wave/Zigbee QuickStick Combo
+
+It's a self-contained python script and it only uses the standard library.
+
+Firmware binary is from: https://github.com/walthowd/husbzb-firmware
